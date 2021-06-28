@@ -6,6 +6,7 @@
 <li>Webhook sender</li>
 <li>Golang default modules</li>
 <li>Lightweight executable</li>
+<li>Getting extra data like <b>Machine Name</b> and <b>IP Address</b></li>
 <li>Searches for tokens in multiple sources (Discord, Discord Canary, Discord PTB, Google Chrome, Opera, Brave, Yandex)</li>
 
 <h2>Guide</h2>
