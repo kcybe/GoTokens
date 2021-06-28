@@ -14,7 +14,7 @@ import (
 )
 
 // Settings
-var webhook string = "webhook url"
+var webhook string = "WEBHOOK-URL-HERE"
 var username string = "GoTokens | (by github.com/kcybe)"
 var avatar_url string = "https://camo.githubusercontent.com/19701f26341abb91039ce91da2e1222c2ce8c8c12954ca7f35a6365b79ebe2df/68747470733a2f2f736563757265676f2e696f2f696d672f676f7365632e706e67"
 
